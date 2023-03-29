@@ -1,6 +1,6 @@
 import { StyleSheet, Text, View, ScrollView, Image, TouchableOpacity } from 'react-native';
 import FilmesRecentes from './components/FilmesRecentes';
-import FilmesAvaliados from './components/FilmesMelhoresAvaliados';
+import FilmesAvaliados from './components/FilmesAvaliados'
 
 export default function App() {
 
